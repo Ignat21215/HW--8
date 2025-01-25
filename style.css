@@ -10,9 +10,7 @@
 .focus:focus {
     color: rgb(255, 0, 144);
 }
-:not([href="#"]) {
-    color: rgb(0, 255, 98);
-}
+
 li:only-child {
     font-size: 75px;
 }
